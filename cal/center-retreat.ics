@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CENTER Retreat//HE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:center-retreat-20270108@saharleviron-ui.github.io
+DTSTAMP:20261124T110000Z
+DTSTART:20270108T070000Z
+DTEND:20270108T120000Z
+SUMMARY:CENTER Retreat – יום לנשים
+LOCATION:מרחב האהבה\, מרדכי אנילביץ' 62\, תל אביב
+DESCRIPTION:יום של עצירה\, עבודת מודעות ותנועה עם רעות בן אור שקד ונויה שלמה הכהן.\nקומה 2\, יש מעלית. בגדים נוחים.\nפרטים: https://saharleviron-ui.github.io/center.retreat/\nשאלות: 050-888-2229
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:מחר CENTER Retreat
+END:VALARM
+END:VEVENT
+END:VCALENDAR
